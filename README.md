@@ -1,1 +1,1 @@
-# ResearcHelper---RAG-LLM-Web-App
+# ResearcHelper_LLM
